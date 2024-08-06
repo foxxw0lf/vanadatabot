@@ -1,0 +1,8 @@
+{
+    "custom_points_min": 100,
+    "custom_points_max": 1000,
+    "check_interval": 60,
+    "loop_count": 10,
+    "sleep_duration": 30,
+    "account_switch_delay": 10  
+}
